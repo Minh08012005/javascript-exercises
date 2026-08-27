@@ -1,10 +1,9 @@
 function addNumbers() {
-  const a = 1;
-  const b = 1;
-
+  const a = 5;
+  const b = 5;
   let result;
 
-  result = "a" + "b"; // <------ EDIT THIS LINE
+  result = a + b; // <------ EDIT THIS LINE
 
   return result;
 }
